@@ -14,6 +14,6 @@ This project is an Online Voting System designed to facilitate electronic voting
 - JavaScript: Client-side interactions and validation.
 - Bootstrap: Frontend framework for responsive design.
 
-##Backend:
+## Backend:
 - PHP: Server-side scripting language for handling requests and database interactions.
 - MySQL: Relational database for storing user data, votes, and other information.
